@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joelcj96/Form-list.git/static/css/main.207d8152.css",
+    "main.js": "/joelcj96/Form-list.git/static/js/main.27ff87d6.js",
+    "index.html": "/joelcj96/Form-list.git/index.html",
+    "main.207d8152.css.map": "/joelcj96/Form-list.git/static/css/main.207d8152.css.map",
+    "main.27ff87d6.js.map": "/joelcj96/Form-list.git/static/js/main.27ff87d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207d8152.css",
+    "static/js/main.27ff87d6.js"
+  ]
+}
